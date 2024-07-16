@@ -1,0 +1,109 @@
+@import "../../styles/partials/variables.scss";
+@import "../../styles/partials/mixins.scss";
+@import "../../styles/partials/global.scss";
+
+.container {
+    width: 90%;
+}
+
+.hero{
+    display: flex;
+    flex-direction: column;
+    background: url(../../../public/images/kendrick_derozan.png) $overlay;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 1rem;
+    width: 100%;
+    height: 40rem;
+    justify-content: end;
+
+    &__title {
+        color: white;
+        font-weight: 500;
+        padding-bottom: 0.5rem;
+    }
+
+    &__subtitle {
+        color: white;
+        font-weight: 400;
+    }
+
+    &__time {
+        color: white;
+        font-weight: 300;
+        font-size: 0.75rem;
+        padding-top: 0.25rem;
+    }
+}
+
+.article {
+    background-color: white;
+    width: 100%;
+    padding: 1rem;
+
+    &__content {
+        padding-bottom: 1.5rem;
+    }
+
+    &__shareLinks {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        padding-bottom: 1rem;
+    }
+}
+
+.shareLinks {
+    width: 40%;
+}
+
+.comments {
+    background-color: #f6f6f6;
+    width: 100%;
+    padding: 1rem;
+
+    &__title {
+        font-weight: 500;
+        padding-top: 0.5rem;
+    }
+
+    &__count {
+        font-weight: 600;
+        padding: 0.5rem 0rem;
+    }
+
+    &__cta {
+        padding: 0.5rem 0rem 1rem;
+    }
+
+    &__field {
+        border-radius: $border-radius;
+        border: 1px solid black;
+        background-color: white;
+        padding: 0.5rem;
+        color: $color-font-dark;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &__button {
+        border-radius: $border-radius;
+        border: 1px solid black;
+        background-color: white;
+        padding: 0rem 0.25rem;
+        color: $color-font-dark;
+    }
+
+    &__body {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        padding: 1rem 0rem;
+    }
+
+    &__image {
+        width: 100%;
+    }
+}

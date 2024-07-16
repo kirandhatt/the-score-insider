@@ -1,0 +1,54 @@
+@import '../../styles/partials/variables.scss';
+@import '../../styles/partials/mixins.scss';
+@import '../../styles/partials/global.scss';
+
+.liveVideo--container {
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+    width: 100%;
+}
+
+
+.liveVideo--display {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+    transition: filter 0.3s ease;
+    object-fit: cover;
+    aspect-ratio: 16 / 9;
+    border: $border-style-dark;
+    border-radius: $border-radius;
+    &:hover {
+        filter: grayscale(100%);
+    }
+}
+
+.liveVideo--widget {
+    padding: 0.75rem 0.75rem 0.75rem 0.75rem;
+    border-radius: $border-radius 0 0 0;
+    background-color: $color-brand-primary;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    p.liveVideo-widegetText {
+        text-align: center;
+        text-transform: uppercase;
+        color: $color-font-light;
+    }
+}
+
+.liveVideo--widgetViews {
+    position: absolute;
+    padding-top: 0.5rem;
+    top: 0;
+    right: 0;
+    .liveVideo--viewsIcon, .liveVideo--viewsNum {
+        display: inline;
+        padding-right: 0.5rem;
+        color: $color-font-light;
+    }
+}
