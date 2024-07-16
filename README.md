@@ -1,12 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
 # The Score Insider: Beyond the Game
 
 “The Score Insider” is a new feature designed to engage sports fans with content about athletes’ personal lives, exclusive live events, and interactive social experiences. This feature aims to keep users engaged during off-seasons and between games, while also driving social media engagement and user growth.
@@ -57,8 +48,8 @@ Currently, two official plugins are available:
     - Affiliate marketing on content involving sports-related products
 
 # Key Performance Indicators:
-    - User engagement metrics (time spent in app, interaction rate)
-    - User growth and retention rates
-    - Social media shares and engagement from app-generated content
-    - Live event viewership and chat participation
-    - User satisfaction scores
+* User engagement metrics (time spent in app, interaction rate)
+* User growth and retention rates
+* Social media shares and engagement from app-generated content
+* Live event viewership and chat participation
+* User satisfaction scores
