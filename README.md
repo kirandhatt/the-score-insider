@@ -2,7 +2,7 @@
 
 “The Score Insider” is a new feature designed to engage sports fans with content about athletes’ personal lives, exclusive live events, and interactive social experiences. This feature aims to keep users engaged during off-seasons and between games, while also driving social media engagement and user growth.
 
-# Key Features:
+## Key Features:
 1. Athlete Lifestyle Newsfeed
     - Curated news about players’ personal lives, relationships, and off-field activities
     - Sourced from reputable entertainment and sports media outlets (create our own backend API)
@@ -21,7 +21,7 @@
     - Customized news feeds and notifications based on user preferences
     - Exclusive content for highly-followed athletes or teams
 
-# Implementation Strategy:
+## Implementation Strategy:
 1. Content Curation
     - Establish partnerships with entertainment and sports media outlets
     - Lean on internal editorial team for original content creation
@@ -47,7 +47,7 @@
     - Implement targeted advertising based on user preferences and followed entities
     - Affiliate marketing on content involving sports-related products
 
-# Key Performance Indicators:
+## Key Performance Indicators:
 * User engagement metrics (time spent in app, interaction rate)
 * User growth and retention rates
 * Social media shares and engagement from app-generated content
