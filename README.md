@@ -54,7 +54,14 @@
 * Live event viewership and chat participation
 * User satisfaction scores
 
-### Tech Stack
+### Tech Stack:
 * HTML/CSS/JavaScript
 * React + Vite
 * Node.js
+
+### Co-Authors:
+* Miranda Neerhof (@mirandajoy)
+* Charlotte He (@charlotteyuqiu)
+* Alison Root (@alisonroot)
+* Katrina Woo (@katrinawoo)
+* Kelly Anne Besmonte (@kellybesmonte)
