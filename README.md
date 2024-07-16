@@ -66,8 +66,8 @@ How might The Score keep sports fans engaged in their products when their favori
 * Node.js
 
 ## Co-Authors:
-Miranda Neerhof (@mirandajoy)
-Charlotte He (@charlotteyuqiu)
-Alison Root (@alisonroot)
-Katrina Woo (@katrinawoo)
-Kelly Anne Besmonte (@kellybesmonte)
+* Miranda Neerhof (@mirandajoy)
+* Charlotte He (@charlotteyuqiu)
+* Alison Root (@alisonroot)
+* Katrina Woo (@katrinawoo)
+* Kelly Anne Besmonte (@kellybesmonte)
