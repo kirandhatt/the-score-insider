@@ -1,6 +1,12 @@
 # The Score Insider: Beyond the Game
-
 “The Score Insider” is a new feature designed to engage sports fans with content about athletes’ personal lives, exclusive live events, and interactive social experiences. This feature aims to keep users engaged during off-seasons and between games, while also driving social media engagement and user growth.
+
+## Company Intro:
+theScore delivers authentic and innovative coverage to sports fans. In 2005 theScore launched its first sports media app, beginning the evolution into a technology driven, mobile-first company. 'theScore' app is now one of the most popular mobile sports media platforms in
+North America.
+
+## Problem Statement:
+How might The Score keep sports fans engaged in their products when their favorite sport leagues are not live? (i.e. no matches scheduled, during offseason, or during a lockout).
 
 ### Key Features:
 1. Athlete Lifestyle Newsfeed
